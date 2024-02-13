@@ -1,0 +1,5 @@
+/user-manager user add group=Amiram-pool1-group name=users2846 password=53041
+/user-manager user add group=Amiram-pool1-group name=users2295 password=64647
+/user-manager user add group=Amiram-pool1-group name=users2820 password=62147
+/user-manager user add group=Amiram-pool1-group name=users2237 password=03621
+/user-manager user add group=Amiram-pool1-group name=users2251 password=55715
