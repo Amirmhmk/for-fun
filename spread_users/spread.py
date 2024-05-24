@@ -15,7 +15,7 @@ for item in result:
     password = password.split('=')[1]
     users[user] = password
 try:
-    file = open('users2-final.txt' , 'w+')
+    file = open('users-final.txt' , 'w+')
     for user , passw in users.items():
         file.write(f"user: {user}\npass: {passw}\n\n")
     file.close()
