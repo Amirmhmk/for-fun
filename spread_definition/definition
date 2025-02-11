@@ -1,0 +1,119 @@
+Performance: A measure of the overall effectiveness of a model, often including metrics like accuracy, efficiency, and robustness to changes.
+
+Accuracy: The proportion of correct predictions made by the model out of all predictions.
+
+Classification Accuracy: The percentage of correctly classified instances in a classification task.
+
+Efficiency: How effectively the model utilizes resources (e.g., time, memory) relative to performance gains.
+
+Learning Efficacy with Adaptive Learning: The effectiveness of learning processes that dynamically adjust to data or task shifts.
+
+Accurate Detection: The ability of the model to correctly identify relevant patterns or classes in data.
+
+Average Accuracy: The mean accuracy across multiple tasks or data distributions.
+
+Avg. Online Accuracy: The average accuracy achieved by the model over time during online learning.
+
+Complexity: The level of computational and structural intricacy within the model or learning process.
+
+Detection Precision: The proportion of true positive detections among all detections made.
+
+Effective: The ability of a model to achieve its learning goals with minimal resources.
+
+Efficient to Distribution Changes: The model’s ability to adapt quickly and accurately to shifts in data distributions.
+
+Generalization Error: The discrepancy between a model’s performance on training data versus unseen data.
+
+IoU Metrics: Intersection over Union, a metric assessing the overlap between predicted and actual segments.
+
+Overfitting: When a model memorizes training data, resulting in poor generalization to new data.
+
+Panoptic Segmentation Metrics: Metrics that evaluate segmentation quality across both semantic and instance segmentation tasks.
+
+Performance of Semantic and Panoptic Segmentation: The model’s accuracy and effectiveness in distinguishing classes (semantic) and instances (panoptic) within images.
+
+Performance of Small Ensembles: The effectiveness of combining a few models to improve accuracy or robustness.
+
+Task-aware (TA) and Task-free (TF) Performance Gap: The difference in model performance when aware of task boundaries versus operating without task labels.
+
+Catastrophic Forgetting: The loss of previously learned information when new tasks are learned in sequence.
+
+Knowledge Sharing Across Tasks: The transfer or reuse of learned knowledge from one task to enhance learning in another.
+
+Protects the Learned Knowledge: Ensuring previously acquired knowledge is retained as new information is learned.
+
+Stability: The model’s ability to preserve past knowledge while integrating new information.
+
+Prevents Information Loss: Mechanisms that help retain prior knowledge in continual learning.
+
+Preserves Past Information: The capacity of a model to remember previously learned tasks or data.
+
+Computation Cost: The total resources required to train or run a model.
+
+Computationally Efficient: A model’s ability to deliver high performance while minimizing computational resource usage.
+
+Efficient Computationally: The optimal use of computational resources to achieve desired learning outcomes.
+
+Time Cost: The amount of time needed for the model to learn or infer.
+
+Computational Complexity: The degree of resource demand (e.g., time, memory) based on model structure and algorithm design.
+
+Computational Effort: The resources needed to complete a model’s training or inference.
+
+Computational Expenses: The cost of resources (e.g., time, memory) consumed during computation.
+
+Computational Overhead: Extra computational load due to additional processes or inefficiencies.
+
+Convergence Speed: How quickly a model reaches an optimal solution or stable performance.
+
+Computation Constraint: The limits on computational resources that restrict model training or deployment.
+
+Computation Footprint: The overall computational resource requirements of a model.
+
+Execution Times: The time taken to complete a single run of training or inference.
+
+Learning Efficacy with Small Replay Buffer Size: The model’s ability to learn effectively with limited memory for past data.
+
+Plasticity: The model’s flexibility to incorporate new information while learning continually.
+
+Depth Errors: Errors related to the depth estimation in a model, often in computer vision tasks.
+
+Detection Effects of Multiple Scales: The model’s ability to detect objects at various scales within data.
+
+Flexibility: The model’s adaptability to various tasks or data conditions.
+
+Model Converge: The process of a model reaching a stable state where further training has minimal effect.
+
+Number of Classifiers: The count of individual classifiers (models) used within an ensemble or multi-task system.
+
+Regularization Effect: Techniques that reduce overfitting, helping the model generalize better.
+
+Replay Effects: The impact of reusing past data to reinforce learning without forgetting.
+
+Richness of the Information: The depth and variety of data available for model training.
+
+The Number of Parameters: The count of trainable weights and biases in a model.
+
+Updates: Iterative adjustments made to model parameters during training.
+
+Versatility: The model’s ability to handle a range of tasks or adapt to new tasks.
+
+Memory Efficiency: The model’s ability to optimize memory use for better performance.
+
+Memory Overhead: Extra memory consumed by additional processes or model architecture.
+
+Storage Consumption: The amount of storage space required by a model or data.
+
+GPU Memory Footprint: The amount of GPU memory used during training or inference.
+
+Higher Storage Capacity: The need for increased storage to handle larger models or datasets.
+
+MAP Value of Rehearsal Balance: The mean average precision score indicating the balance between replayed and new data.
+
+Memory Footprint per Image: The memory usage required to process each image.
+
+Memory Overfitting: When a model’s memory utilization leads to memorization of training data, reducing generalization.
+
+Memory Usage: The total memory needed for model storage and operations.
+
+Static Buffer: A fixed memory allocation used to store replay data or past experiences in continual learning.

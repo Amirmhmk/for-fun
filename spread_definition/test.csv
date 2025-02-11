@@ -1,0 +1,61 @@
+0
+" A measure of the overall effectiveness of a model, often including metrics like accuracy, efficiency, and robustness to changes."
+ The proportion of correct predictions made by the model out of all predictions.
+ The percentage of correctly classified instances in a classification task.
+" How effectively the model utilizes resources (e.g., time, memory) relative to performance gains."
+ The effectiveness of learning processes that dynamically adjust to data or task shifts.
+ The ability of the model to correctly identify relevant patterns or classes in data.
+ The mean accuracy across multiple tasks or data distributions.
+ The average accuracy achieved by the model over time during online learning.
+ The level of computational and structural intricacy within the model or learning process.
+ The proportion of true positive detections among all detections made.
+ The ability of a model to achieve its learning goals with minimal resources.
+ The modelâ€™s ability to adapt quickly and accurately to shifts in data distributions.
+ The discrepancy between a modelâ€™s performance on training data versus unseen data.
+" Intersection over Union, a metric assessing the overlap between predicted and actual segments."
+" When a model memorizes training data, resulting in poor generalization to new data."
+ Metrics that evaluate segmentation quality across both semantic and instance segmentation tasks.
+ The modelâ€™s accuracy and effectiveness in distinguishing classes (semantic) and instances (panoptic) within images.
+ The effectiveness of combining a few models to improve accuracy or robustness.
+ The difference in model performance when aware of task boundaries versus operating without task labels.
+ The loss of previously learned information when new tasks are learned in sequence.
+ The transfer or reuse of learned knowledge from one task to enhance learning in another.
+ Ensuring previously acquired knowledge is retained as new information is learned.
+ The modelâ€™s ability to preserve past knowledge while integrating new information.
+ Mechanisms that help retain prior knowledge in continual learning.
+ The capacity of a model to remember previously learned tasks or data.
+ The total resources required to train or run a model.
+ A modelâ€™s ability to deliver high performance while minimizing computational resource usage.
+ The optimal use of computational resources to achieve desired learning outcomes.
+ The amount of time needed for the model to learn or infer.
+" The degree of resource demand (e.g., time, memory) based on model structure and algorithm design."
+ The resources needed to complete a modelâ€™s training or inference.
+" The cost of resources (e.g., time, memory) consumed during computation."
+ Extra computational load due to additional processes or inefficiencies.
+ How quickly a model reaches an optimal solution or stable performance.
+ The limits on computational resources that restrict model training or deployment.
+ The overall computational resource requirements of a model.
+ The time taken to complete a single run of training or inference.
+ The modelâ€™s ability to learn effectively with limited memory for past data.
+ The modelâ€™s flexibility to incorporate new information while learning continually.
+" Errors related to the depth estimation in a model, often in computer vision tasks."
+ The modelâ€™s ability to detect objects at various scales within data.
+ The modelâ€™s adaptability to various tasks or data conditions.
+ The process of a model reaching a stable state where further training has minimal effect.
+ The count of individual classifiers (models) used within an ensemble or multi-task system.
+" Techniques that reduce overfitting, helping the model generalize better."
+ The impact of reusing past data to reinforce learning without forgetting.
+ The depth and variety of data available for model training.
+ The count of trainable weights and biases in a model.
+ Iterative adjustments made to model parameters during training.
+ The modelâ€™s ability to handle a range of tasks or adapt to new tasks.
+ The modelâ€™s ability to optimize memory use for better performance.
+ Extra memory consumed by additional processes or model architecture.
+ The amount of storage space required by a model or data.
+ The amount of GPU memory used during training or inference.
+ The need for increased storage to handle larger models or datasets.
+ The mean average precision score indicating the balance between replayed and new data.
+ The memory usage required to process each image.
+" When a modelâ€™s memory utilization leads to memorization of training data, reducing generalization."
+ The total memory needed for model storage and operations.
+ A fixed memory allocation used to store replay data or past experiences in continual learning.

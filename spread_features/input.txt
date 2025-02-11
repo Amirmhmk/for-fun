@@ -1,0 +1,50 @@
+achieving strong performance with minimal or no additional cost
+Adam optimizer
+adapt panoptic segmentation
+adapt the network during inference time
+adapt the transformation functions in the deep neural network layers
+adapt to new knowledge
+adaptation of new individual target
+adaptation with dynamic data sampling 
+adaptive multi-level storage mechanism
+adding qualified images into the buffer from streaming data 
+"Addressing the risks of continual webly supervised training
+"
+Adjust the coefficient
+adjust the frequency dynamically
+adjust the hyperparameters 
+adopted for MemoryUpdate operation
+advantage of unlabeled data
+align feature representations 
+align features of all tasks
+alleviate catastrophic forgetting
+alleviate forgetting
+alleviate forgetting
+alleviate the computational cost
+alleviate the forgetting
+alleviate the gradient imbalance (CL imbalance) 
+alleviate the influence of biased norm
+Alleviate the scale to large models
+alleviates the drawback of fixing the backbone neural network
+alleviating forgetting
+allowing knowledge retention
+Allows to compress multiple examples into a single one
+allows to move the feature replay to lower layers
+"allows use of more capacity for harder data
+and fewer for easier"
+alternates between standard-process and intra-process  updates
+An Empirical Surrogate to Feasible Region Minimization
+anchor size extract
+any hold-out data
+any-time inference
+Anytime evaluation and comparisons of the computation time per incoming  batch
+applies product quantization
+apture a representative sample from each class in memory
+AR applications
+architectural-based
+assessing image quality 
+"associative content-addressable memory model"
+autoencode the incoming data with the generator
+automatic speech recognition
+automatic speech recognition (ASR)
+automatically sampling
